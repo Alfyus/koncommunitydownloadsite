@@ -6,7 +6,6 @@ hero:
   name: "Kon Community"
   text: "Indice"
   tagline: Per qualsiasi problema o dubbio vai su "Tutorial". Per qualsiasi problema scrivi su Telegram a "RexVelocitatis"
-    <RightImage src="https://i.imgur.com/QfmJwvl.png" alt="Logo" width="150" />
 
   actions:
     - theme: brand
