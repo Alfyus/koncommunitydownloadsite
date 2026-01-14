@@ -72,7 +72,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/7SQfjKPFVA' },
-      { icon: 'telegram', link: 'https://t.me/+ttw_RJEiRs1hNzBk' }
+      { icon: 'telegram', link: 'https://t.me/+F_d1bQqI8xsxMGY0' }
     ]
   }
 })
