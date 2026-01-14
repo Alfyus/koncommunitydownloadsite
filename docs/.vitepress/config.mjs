@@ -7,7 +7,7 @@ export default defineConfig({
   title: "Kon Community Downloads",
   description: "Indice",
   themeConfig: {
-    logo: '.vitepress/public/logo.png',
+    logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: 'local',
