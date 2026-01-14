@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+![Kon]([https://esempio.com/immagine.jpg](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2024%2F09%2F23%2F08%2F48%2Fplanet-9068292_1280.png&sp=1768425919T144a7fb2447176608af806462f0b881877ffabc36d2a1c6f019081e5c529cbcb))
+
 hero:
   name: "Kon Community"
   text: "Indice"
