@@ -3,7 +3,7 @@
 # 📂 Filosofia Open Source & FOSS
 
 ::: info Cos'è l'Open Source?
-L'Open Source non è solo codice; è un'architettura trasparente che demolisce il segreto aziendale a favore della conoscenza collettiva.
+L'open source è un modello di sviluppo in cui il codice sorgente di un software è reso pubblico, permettendo a chiunque di studiarlo, modificarlo e distribuirlo liberamente. Si basa sulla collaborazione aperta e sulla trasparenza per migliorare costantemente la tecnologia a beneficio della collettività.
 :::
 
 ### 🚀 Perché sceglierlo?
