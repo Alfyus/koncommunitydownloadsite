@@ -56,4 +56,4 @@ Ecco una selezione curata di software libero per sostituire i programmi propriet
 Passare al FOSS non è solo un cambio di software, è un atto di sovranità digitale. Inizia sostituendo un programma alla volta.
 :::
 
-![Kon]([[https://esempio.com/immagine.jpg](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2024%2F09%2F23%2F08%2F48%2Fplanet-9068292_1280.png&sp=1768425919T144a7fb2447176608af806462f0b881877ffabc36d2a1c6f019081e5c529cbcb](https://eu2-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F2%2FBig-Show-PNG-Transparent-Image.png&sp=1768426436Tefda7450d6e9dc51a8d52f25274d471b7c2e479fa43fd8b769f76e44cbb6ec40)))
+<img src="https://eu2-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fschtirlitz.ru%2F800%2F600%2Fhttps%2F3.bp.blogspot.com%2F-smXeJ4Sk90A%2FVOydhvYPMOI%2FAAAAAAAARbY%2F3c-go7DwH1w%2Fs1600%2F0_512e2_8722cbc6_orig.png&sp=1768426535T6091b98df07b260ef918b4578a2eab2ec504296865470caa54d5a1902955f105" alt="Descrizione" width="600" />
