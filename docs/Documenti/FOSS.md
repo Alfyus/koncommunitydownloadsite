@@ -11,8 +11,7 @@ L'open source è un modello di sviluppo in cui il codice sorgente di un software
 * 🛡️ **Sicurezza Reale**: Se migliaia di occhi controllano il codice, bug e falle vengono risolti in tempo reale. La segretezza non è sicurezza.
 * 🫂 **Community Operativa**: Lo sviluppo non è limitato a un team chiuso, ma spinto da una collaborazione globale verso standard altissimi.
 * 🛡️ **Indipendenza**: Elimina la dipendenza passiva dai produttori. Puoi studiare, smontare e ricostruire il software secondo le tue esigenze.
-* ➡️ **Efficienza Massima**: La collaborazione di massa filtra il superfluo, ottimizzando le prestazioni fino al livello **Le-kon-vel** massimo.
-
+* ➡️ **Efficienza Massima**: La collaborazione di massa filtra il superfluo, ottimizzandone le prestazioni.
 ---
 
 ### 🕊️ Il concetto di FOSS
