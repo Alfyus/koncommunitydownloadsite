@@ -7,7 +7,7 @@ hero:
   text: "Indice"
   tagline: Per qualsiasi problema o dubbio vai su "Tutorial". Per qualsiasi problema scrivi su Telegram a "RexVelocitatis"
   image:
-    src: '/img/logo.png'
+    src: 'withBase('/logo.png')'
     alt: 'Logo Kon'
 
   actions:
