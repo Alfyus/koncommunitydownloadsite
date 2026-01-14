@@ -2,13 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-    <img src="https://i.imgur.com/QfmJwvl.png" alt="Descrizione" width="600" />
-
 hero:
   name: "Kon Community"
   text: "Indice"
   tagline: Per qualsiasi problema o dubbio vai su "Tutorial". Per qualsiasi problema scrivi su Telegram a "RexVelocitatis"
-
+  logo:  <img src="https://i.imgur.com/QfmJwvl.png" alt="Descrizione" width="600" />
 
   actions:
     - theme: brand
