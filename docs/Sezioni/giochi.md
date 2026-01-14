@@ -29,3 +29,4 @@
 * [Terraria](https://t.me/c/3061758348/623)
 * [The Elder Scrolls V Skyrim Special Edition (Reshade)](https://t.me/c/3061758348/1488)  <Badge type="warning" text="ENG" />
 * [The Stanley Parable - Ultra Deluxe](https://t.me/c/3061758348/1028)
+* [The Stanley Parable - Ultra Deluxe](https://t.me/c/3061758348/1028)
