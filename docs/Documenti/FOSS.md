@@ -55,5 +55,3 @@ Ecco una selezione curata di software libero per sostituire i programmi propriet
 ::: tip Consiglio dell'Advisor
 Passare al FOSS non è solo un cambio di software, è un atto di sovranità digitale. Inizia sostituendo un programma alla volta.
 :::
-
-<img src="https://i.imgur.com/QfmJwvl.png" alt="Descrizione" width="600" />
