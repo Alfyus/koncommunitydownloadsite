@@ -6,7 +6,7 @@ hero:
   name: "Kon Community"
   text: "Indice"
   tagline: Per qualsiasi problema o dubbio vai su "Tutorial". Per qualsiasi problema scrivi su Telegram a "RexVelocitatis"
-  <div style="text-align: right;">
+  <div style="display: flex; justify-content: flex-end; margin: 1rem 0;">
     <img src="https://i.imgur.com/QfmJwvl.png" alt="Descrizione" width="150" />
   </div>
 
