@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/koncommunitydownloadsite/',
-  head: [['link', { rel: 'icon', href: '/public/favicon.ico' }], ['meta', { name: 'robots', content: 'noindex, nofollow'}]],
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }], ['meta', { name: 'robots', content: 'noindex, nofollow'}]],
   title: "Kon Community Downloads",
   description: "Indice",
   themeConfig: {
