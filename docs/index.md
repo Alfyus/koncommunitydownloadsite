@@ -2,6 +2,8 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+    <img src="https://i.imgur.com/QfmJwvl.png" alt="Descrizione" width="600" />
+
 hero:
   name: "Kon Community"
   text: "Indice"
