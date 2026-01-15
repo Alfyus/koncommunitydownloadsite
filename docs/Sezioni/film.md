@@ -17,6 +17,7 @@
 * [Harry Potter e la pietra filosofale](https://t.me/c/3061758348/890)
 * [Harry Potter e l’ordine della fenice](https://t.me/c/3061758348/898)
 * [Interstellar](https://t.me/c/3061758348/173)
+* [L'ultimo Samurai](https://t.me/c/3061758348/1503)
 * [Le cronache di Narnia - Il leone, la strega e l'armadio](https://t.me/c/3061758348/906)
 * [Le cronache di Narnia - Il principe Caspian](https://t.me/c/3061758348/908)
 * [Le cronache di Narnia - Il viaggio del veliero](https://t.me/c/3061758348/910)
