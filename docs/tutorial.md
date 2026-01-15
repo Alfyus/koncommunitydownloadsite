@@ -12,7 +12,7 @@ Gli elementi possono essere accompagnati da **tag** (es. <Badge type="warning" t
   - *Nota: Il tag <Badge type="warning" text="SUB ITA" /> indica la presenza di sottotitoli.*
 - 📄 **Documenti (Libri/Manga/Paper):** Formato PDF.
 
-Con `PCVR` Giochi che richiedono il collegamento del visore al PC per l'esecuzione.
+- 🕹️**Giochi:** Con <Badge type="warning" text="PCVR" />, Giochi che richiedono il collegamento del visore al PC per l'esecuzione.
 :::
 
 ## 📦 Guida all'estrazione degli ZIP
