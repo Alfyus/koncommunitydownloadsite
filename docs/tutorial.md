@@ -3,7 +3,7 @@
 ## :heavy_exclamation_mark: Premessa
 
 ::: info IMPORTANTE
-Gli elementi possono essere accompagnati da **tag** tra parentesi quadre (es. <Badge type="warning" text="ENG" />, <Badge type="warning" text="LINUX" />) che ne specificano le proprietà. 
+Gli elementi possono essere accompagnati da **tag** (es. <Badge type="warning" text="ENG" />, <Badge type="warning" text="LINUX" />) che ne specificano le proprietà. 
 
 **Se non diversamente specificato, si applicano i seguenti standard:**
 
