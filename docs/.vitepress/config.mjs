@@ -7,6 +7,10 @@ export default defineConfig({
   title: "Kon Community Downloads",
   description: "Indice",
   themeConfig: {
+    outline: {
+      label: 'In questa pagina', 
+      level: [2, 3]
+    },
     logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     search: {
