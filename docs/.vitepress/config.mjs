@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     outline: {
       label: 'In questa pagina', 
-      level: [2, 3]
+      level: [1, 2]
     },
     logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
