@@ -350,7 +350,3 @@ Nessuna banca, servizio postale o ente governativo ti chiederà mai di inserire 
 ::: tip 💡 CONSIGLIO
 Utilizza un'estensione come **uBlock Origin**. Oltre a bloccare la pubblicità, impedisce il caricamento di molti domini noti per il phishing e la distribuzione di malware.
 :::
-
-::: info CONCLUSIONE
-La tua attenzione è la difesa più potente. Non fidarti mai ciecamente di un file solo perché ha l'icona corretta: verifica sempre l'estensione reale e il tipo di file.
-:::
