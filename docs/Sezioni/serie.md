@@ -9,7 +9,7 @@
 
 * [**MOB Psycho 100**](../Serie/mobpsycho100.md)
 
-* [**My Hero Academia**](../Serie/myheroacademia.md)
+* [**My Hero Academia** <Badge type="warning" text="SUB ITA" />](../Serie/myheroacademia.md)
 
 * [**Pluribus**](../Serie/pluribus.md)
 
