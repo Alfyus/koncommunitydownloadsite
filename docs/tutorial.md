@@ -54,7 +54,7 @@ Per i file contrassegnati dal tag <Badge type="warning" text="CBR" />, si consig
 | **Linux** | [Calibre](https://calibre-ebook.com/) | Importa e apri il file nella libreria. |
 
 ::: info NOTA SUI FORMATI
-Sebbene lo standard sia il PDF, i manga in formato specifico CBR sono segnalati nell'indice con il tag `[CBR]`.
+Sebbene lo standard sia il PDF, i manga in formato specifico CBR sono segnalati nell'indice con il tag <Badge type="warning" text="CBR" />.
 :::
 
 ## 📖 Lettura Libri (PDF & EPUB)
