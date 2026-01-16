@@ -9,6 +9,8 @@
 
 * [**MOB Psycho 100**](../Serie/mobpsycho100.md)
 
+* [**My Hero Academia**](../Serie/myheroacademia.md)
+
 * [**Pluribus**](../Serie/pluribus.md)
 
 * [**Pluribus** <Badge type="warning" text="ENG" />](../Serie/pluribuseng.md)
