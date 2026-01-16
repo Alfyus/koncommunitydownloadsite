@@ -312,6 +312,45 @@ I formati contenitore come `.wmv` e `.wma` permettono l'esecuzione di script, ch
 * **Estensioni Pericolose:** Fai attenzione ai file con estensione **.scr** (Screen Saver). Tecnicamente sono file eseguibili identici ai `.exe` e vengono spesso usati per diffondere virus.
 * **Formati standard:** Prediligi sempre formati moderni come `.mp4`, `.mkv` o `.avi`.
 
+## 🎣 Phishing: Come riconoscere i link malevoli
+
+Il phishing non avviene solo tramite email, ma anche attraverso messaggi sui social, SMS (Smishing) o falsi risultati sui motori di ricerca. L'obiettivo è rubare le tue credenziali o indurti a scaricare malware.
+
+### 🚩 Segnali di Pericolo nei Link
+Prima di cliccare su qualsiasi URL, effettua questi controlli rapidi:
+
+1.  **Passa il mouse sopra il link:**
+    Posiziona il cursore sopra un link senza cliccare. In basso a sinistra nel tuo browser apparirà l'indirizzo reale. Se il testo del link dice `www.tuabanca.it` ma il link reale punta a `bit.ly/paga-qui` o `sicurezza-banca-check.xyz`, è una truffa.
+
+2.  **Errori di battitura:**
+    I criminali registrano domini simili a quelli reali sperando in un tuo errore di distrazione.
+    * **Reale:** `google.com`
+    * **Falso:** `g00gle.com` o `google-support.net`
+
+3.  **Sottodomini Ingannevoli:**
+    Ricorda che la parte importante di un URL è quella subito prima dell'estensione (`.it`, `.com`).
+    * **Sicuro:** `assistenza.amazon.it` (il dominio è amazon.it)
+    * **Pericoloso:** `amazon.assistenza-clienti.it` (il dominio è assistenza-clienti.it)
+
+---
+
+### 🛠️ Strumenti di Verifica
+Se hai ricevuto un link sospetto, non aprirlo nel browser. Usa questi strumenti di analisi:
+
+| Strumento | Funzione |
+| :--- | :--- |
+| **[VirusTotal](https://www.virustotal.com/)** | Incolla l'URL nella sezione "URL" per scansionarlo con decine di database antivirus. |
+| **[URLScan.io](https://urlscan.io/)** | Scatta una "foto" del sito senza che tu debba visitarlo, mostrandoti cosa succede dietro le quinte. |
+| **[ExpandURL](https://www.expandurl.net/)** | Rivela la destinazione reale dei link abbreviati (come quelli `bit.ly` o `t.co`). |
+
+::: danger 🚨 LA REGOLA D'ORO
+Nessuna banca, servizio postale o ente governativo ti chiederà mai di inserire password o dati sensibili cliccando su un link inviato via SMS o email. In caso di dubbio, digita manualmente l'indirizzo del sito ufficiale nel browser.
+:::
+
+::: tip 💡 CONSIGLIO
+Utilizza un'estensione come **uBlock Origin**. Oltre a bloccare la pubblicità, impedisce il caricamento di molti domini noti per il phishing e la distribuzione di malware.
+:::
+
 ::: info CONCLUSIONE
 La tua attenzione è la difesa più potente. Non fidarti mai ciecamente di un file solo perché ha l'icona corretta: verifica sempre l'estensione reale e il tipo di file.
 :::
