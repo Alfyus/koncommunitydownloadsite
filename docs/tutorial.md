@@ -41,7 +41,7 @@ La suddivisione dei file dipende esclusivamente dalle dimensioni del contenuto:
 
 > Entrambe le parti sono file video nativi; non richiedono estrazione o ricomposizione, vanno semplicemente riprodotti in sequenza.
 
-## 📖 Lettura Manga e Comic ([CBR])
+## 📖 Lettura Manga e Comic (CBR)
 
 Per i file contrassegnati dal tag <Badge type="warning" text="CBR" />, si consiglia l'utilizzo dei seguenti software dedicati:
 
