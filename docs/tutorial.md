@@ -29,6 +29,7 @@ Se il file è diviso in più segmenti, segui rigorosamente questi passaggi:
 2. **Unica Cartella:** Sposta tutti i file nella stessa directory.
 3. **Azione:** Clicca col tasto destro **solo sul primo file** (`.001`) e seleziona "Estrai".
    - *Il software ricomporrà automaticamente l'intero pacchetto.*
+   - *Dopo aver estratto tutto con successo, potrai eliminare tutti i file zip, lasciando soltanto la cartella appena estratta* 
 
 ---
 
