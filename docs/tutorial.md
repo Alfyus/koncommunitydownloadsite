@@ -18,9 +18,8 @@ Tutti i **Giochi** Con <Badge type="warning" text="PCVR" /> come tag, richiedono
 ## 📦 Guida all'estrazione degli ZIP
 
 ::: info Software Consigliati
-Per gestire gli archivi, utilizza uno dei seguenti programmi:
+Per gestire gli archivi, utilizza il seguente programma:
 - [7-Zip](https://www.7-zip.org/) (Scelta raccomandata)
-- [WinRAR](https://www.rarlab.com/)
 :::
 
 ### Archivi Multi-parte (`.001`, `.002`, ecc.)
