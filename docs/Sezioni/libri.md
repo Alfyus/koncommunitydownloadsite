@@ -46,8 +46,8 @@
 * **[Lo zen e l'arte della manutenzione della motocicletta](https://t.me/c/3061758348/127)** — *Robert M. Pirsig*
 * **[Manuale](https://t.me/c/3061758348/529)** — *Epitteto*
 * **[Manuale di Powerbuilding](https://t.me/c/3061758348/722)** — *Filippo D'Albero*
-* **[Manuali Fondamentali D&D 3.5](https://t.me/c/3061758348/1769)** — *Dungeons & Dragons* <Badge type="warning" text="ZIP" />
-* **[Manuali NON Fondamentali D&D 3.5](https://t.me/c/3061758348/1770)** — *Dungeons & Dragons* <Badge type="warning" text="ZIP" />
+* **[Manuali Fondamentali D&D 3.5](https://t.me/c/3061758348/1769)** — *Dungeons & Dragons* <Badge type="info" text="ZIP" />
+* **[Manuali NON Fondamentali D&D 3.5](https://t.me/c/3061758348/1770)** — *Dungeons & Dragons* <Badge type="info" text="ZIP" />
 * **[Menschen A1](https://t.me/c/3061758348/920)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen A2](https://t.me/c/3061758348/921)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen B1](https://t.me/c/3061758348/922)** — *Hueber* <Badge type="warning" text="GER" />
