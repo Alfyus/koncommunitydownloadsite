@@ -1,14 +1,14 @@
 # Tutorial
 [[toc]]
-## :heavy_exclamation_mark: Premessa
+# :heavy_exclamation_mark: Premessa
 
-# 📌 Linee Guida e Standard
+### 📌 Linee Guida e Standard
 
 ::: danger IMPORTANTE
 Tutti i contenuti presenti nel database seguono degli standard specifici. Gli elementi possono essere accompagnati da **Tag** che ne specificano le proprietà tecniche e la compatibilità.
 :::
 
-## 🏷️ Legenda Tag
+### 🏷️ Legenda Tag
 I tag sono categorizzati per colore per una ricerca visiva rapida:
 
 * <Badge type="danger" text="ROSSO" /> **Estensioni:** Indica il formato del file o estensioni specifiche (es. <Badge type="danger" text="EPUB" />, <Badge type="danger" text="CBR" />).
@@ -17,22 +17,22 @@ I tag sono categorizzati per colore per una ricerca visiva rapida:
 
 ---
 
-## 🛠️ Standard di Default
+### 🛠️ Standard di Default
 Se un elemento **non presenta tag specifici**, si applicano i seguenti standard predefiniti:
 
-### 💻 Software
+#### 💻 Software
 * **Sistema Operativo:** Versione per **Windows**.
 * *Nota: Versioni per altri sistemi sono sempre specificate dal relativo tag grigio.*
 
-### 🎬 Video (Film, Serie, Anime)
+#### 🎬 Video (Film, Serie, Anime)
 * **Audio:** Lingua **Italiana**.
 * **Sottotitoli:** Il tag <Badge type="warning" text="SUB ITA" /> indica la presenza di sottotitoli in italiano.
 
-### 📄 Documenti (Libri, Manga, Paper)
+#### 📄 Documenti (Libri, Manga, Paper)
 * **Formato:** File **PDF**.
 * *Nota: Per formati e-reader specifici (come EPUB), controllare i tag rossi.*
 
-### 🎮 Gaming & VR
+#### 🎮 Gaming & VR
 * **Requisiti PCVR:** Tutti i giochi contrassegnati dal tag <Badge type="info" text="PCVR" /> richiedono obbligatoriamente il **collegamento del visore al PC** per essere eseguiti.
 
 ---
