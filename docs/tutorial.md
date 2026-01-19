@@ -68,7 +68,7 @@ La suddivisione dei file dipende esclusivamente dalle dimensioni del contenuto:
 
 ## 📖 Lettura Manga e Comic (CBR)
 
-Per i file contrassegnati dal tag <Badge type="warning" text="CBR" />, si consiglia l'utilizzo dei seguenti software dedicati:
+Per i file contrassegnati dal tag <Badge type="danger" text="CBR" />, si consiglia l'utilizzo dei seguenti software dedicati:
 
 | Sistema Operativo | Software Consigliato | Azione |
 | :--- | :--- | :--- |
@@ -79,13 +79,13 @@ Per i file contrassegnati dal tag <Badge type="warning" text="CBR" />, si consig
 | **Linux** | [Calibre](https://calibre-ebook.com/) | Importa e apri il file nella libreria. |
 
 ::: info NOTA SUI FORMATI
-Sebbene lo standard sia il PDF, i manga in formato specifico CBR sono segnalati nell'indice con il tag <Badge type="warning" text="CBR" />.
+Sebbene lo standard sia il PDF, i manga in formato specifico CBR sono segnalati nell'indice con il tag <Badge type="danger" text="CBR" />.
 :::
 
 ## 📖 Lettura Libri (PDF & EPUB)
 
 ::: info Standard di Formato
-Se il titolo di un libro non specifica esplicitamente il tag <Badge type="warning" text="EPUB" />, il file è da intendersi in formato **PDF**.
+Se il titolo di un libro non specifica esplicitamente il tag <Badge type="danger" text="EPUB" />, il file è da intendersi in formato **PDF**.
 :::
 
 | Piattaforma | Software Consigliato | Supporto |
