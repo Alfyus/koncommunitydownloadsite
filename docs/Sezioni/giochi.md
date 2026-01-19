@@ -1,7 +1,7 @@
 # :video_game: Giochi
 
-* [Beat Saber](https://t.me/c/3061758348/110) <Badge type="warning" text="PCVR" />
-* [BONELAB](https://t.me/c/3061758348/532) <Badge type="warning" text="PCVR" />
+* [Beat Saber](https://t.me/c/3061758348/110) <Badge type="info" text="PCVR" />
+* [BONELAB](https://t.me/c/3061758348/532) <Badge type="info" text="PCVR" />
 * [Cloverpit](https://t.me/c/3061758348/822)
 * [CRUMB Circuit Simulator](https://t.me/c/3061758348/723)
 * [Dark Souls Remastered](https://t.me/c/3061758348/629)
@@ -26,8 +26,8 @@
 * [SEGA Megadrive Emulator con 1600+ giochi](https://t.me/c/3061758348/1069) <Badge type="warning" text="ENG" />
 * [Stardew Valley](https://t.me/c/3061758348/570)
 * [Stray](https://t.me/c/3061758348/1062)
-* [Super Mario Party Jamboree](https://t.me/c/3061758348/797) <Badge type="warning" text="Switch" />
-* [Surgeon Simulator](https://t.me/c/3061758348/1355) <Badge type="warning" text="PCVR" />
+* [Super Mario Party Jamboree](https://t.me/c/3061758348/797) <Badge type="info" text="Switch" />
+* [Surgeon Simulator](https://t.me/c/3061758348/1355) <Badge type="info" text="PCVR" />
 * [Terraria](https://t.me/c/3061758348/623)
 * [The Elder Scrolls V Skyrim Special Edition (Reshade)](https://t.me/c/3061758348/1488)  <Badge type="warning" text="ENG" />
 * [The Stanley Parable - Ultra Deluxe](https://t.me/c/3061758348/1028)
