@@ -11,6 +11,16 @@ Se cerchi un numero specifico del passato, puoi utilizzare la funzione di ricerc
 > `Corriere della Sera 12 Gennaio 2026`
 :::
 
+::: info 💡 Date
+Le attività di pubblicazione delle testate sono iniziate secondo il calendario riportato di seguito. I dati storici non sono disponibili per date antecedenti a quelle indicate. Inoltre MOLTO raramente potrebbe accadere che per un determinato giorno non cia sia il file corrispondente.
+| Canale Editoriale | Data di Inizio Monitoraggio |
+| :--- | :--- |
+| **Corriere della Sera** | <Badge type="tip" text="18 Novembre 2025" /> |
+| **Internazionale** | <Badge type="tip" text="14 Novembre 2025" /> |
+| **La Gazzetta dello Sport** | <Badge type="tip" text="3 Gennaio 2026" /> |
+| **The Economist** | <Badge type="tip" text="22 Novembre 2025" /> |
+| **Vogue Italia** | <Badge type="tip" text="Novembre 2025" /> |
+:::
 # Indice
 
 * [Corriere della Sera](https://t.me/c/3061758348/1767)
