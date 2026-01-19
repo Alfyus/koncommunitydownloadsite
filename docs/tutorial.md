@@ -11,8 +11,8 @@ Tutti i contenuti presenti nel database seguono degli standard specifici. Gli el
 ### 🏷️ Legenda Tag
 I tag sono categorizzati per colore per una ricerca visiva rapida:
 
-* <Badge type="danger" text="ROSSO" /> **Estensioni:** Indica il formato del file o estensioni specifiche (es. <Badge type="danger" text="EPUB" />, <Badge type="danger" text="CBR" />).
-* <Badge type="warning" text="GIALLO" /> **Lingua:** Specifica la lingua dell'audio o dei testi (es. <Badge type="warning" text="ENG" />, <Badge type="warning" text="GER" />).
+* <Badge type="danger" text="ROSSO" /> **Estensioni:** Indica il formato del file (es. <Badge type="danger" text="EPUB" />, <Badge type="danger" text="CBR" />).
+* <Badge type="warning" text="GIALLO" /> **Lingua:** Specifica la lingua (es. <Badge type="warning" text="ENG" />, <Badge type="warning" text="GER" />).
 * <Badge type="info" text="GRIGIO" /> **Info Base:** Informazioni generiche o di sistema (es. <Badge type="info" text="ANDROID" />, <Badge type="info" text="MAC" />).
 
 ---
