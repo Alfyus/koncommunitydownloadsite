@@ -89,7 +89,7 @@ irm "irm https://get.activated.win | iex" | iex
 ```
 2. Segui passo per passo la schermata per attivare Windows
 
-:: tip ATTIVAZIONE CONTEMPORANEA DI OFFICE
+::: tip ATTIVAZIONE CONTEMPORANEA DI OFFICE
 Questo script può essere usato anche per attivare Microsoft Office, quindi, se ne hai bisogno, installa Office e utilizza questo stesso script per attivarlo.
 :::
 
