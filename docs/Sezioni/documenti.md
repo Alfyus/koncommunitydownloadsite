@@ -4,6 +4,8 @@
 
 * [**Download APP moddate popolari** ](../Documenti/appmoddate.md)
 
+* [**Formattazione pulita di Windows 11**](../Documenti/formattazionewindows.md)
+
 * [**Piratare giochi direttamente sul Meta Quest** ](../Documenti/metaquest.md)
 
 * [**Scheda di Powerbuilding di Russel Orhii (V6)** <Badge type="warning" text="ENG" /> ](https://t.me/c/3061758348/1762)
