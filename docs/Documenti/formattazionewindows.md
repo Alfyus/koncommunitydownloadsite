@@ -82,7 +82,7 @@ Se non vuoi usare un account Microsoft obbligatorio:
 ## 5. Attivazione di Windows
 Quando il computer ti chiederà (durante la configurazione) di attivare Windows, premi "non ho una Product Key", dopo di che, una volta finita la configurazione:
 
-1. Apri il PowerShell e scrivi
+1. Apri il PowerShell come amministratore e scrivi
 
 ```PowerShell
 irm https://get.activated.win | iex
@@ -108,7 +108,7 @@ Modifica soltanto le cose che conosci e capisci
 :::
 
 2. Installa i driver della scheda video (se dedicata):
-	- Se hai Nvidia utilizza [Shadowplay](https://www.nvidia.com/en-eu/software/nvidia-app/)
+	- Se hai NVIDIA utilizza [Shadowplay](https://www.nvidia.com/en-eu/software/nvidia-app/)
 	- Se hai AMD utilizza [Adrenalin](https://www.amd.com/en/products/software/adrenalin.html)
 3. Installa i driver del computer usando [Snappy Driver Installer](https://sdi-tool.org/), dovrebbe essere semplice da capire, altrimenti trovi facilmente una guida online.
 4. Installa le applicazioni principali (compreso il browser) andando su [Ninite](https://ninite.com/).
