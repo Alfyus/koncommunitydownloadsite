@@ -85,7 +85,7 @@ Quando il computer ti chiederà (durante la configurazione) di attivare Windows,
 1. Apri il PowerShell e scrivi
 
 ```PowerShell
-irm "irm https://get.activated.win | iex" | iex
+irm https://get.activated.win | iex
 ```
 2. Segui passo per passo la schermata per attivare Windows
 
