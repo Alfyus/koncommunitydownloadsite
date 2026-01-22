@@ -79,15 +79,31 @@ Se non vuoi usare un account Microsoft obbligatorio:
 :::
 
 ---
+## 5. Attivazione di Windows
+Quando il computer ti chiederà (durante la configurazione) di attivare Windows, premi "non ho una Product Key", dopo di che, una volta finita la configurazione:
 
-## 5. Prime configurazioni su Windows
+1. Apri il PowerShell e scrivi
+
+```PowerShell
+irm "irm https://get.activated.win | iex" | iex
+```
+2. Segui passo per passo la schermata per attivare Windows
+
+:: tip ATTIVAZIONE CONTEMPORANEA DI OFFICE
+Questo script può essere usato anche per attivare Microsoft Office, quindi, se ne hai bisogno, installa Office e utilizza questo stesso script per attivarlo.
+:::
+
+
+---
+
+## 6. Prime configurazioni su Windows
 1. Per una prima e veloce ottimizzazione di Windows, apri come amministratore il PowerShell (cercalo nella barra di ricerca) e copia-incolla:
 
 ```PowerShell
 irm "https://christitus.com/win" | iex
 ```
 
-:::DANGER ATTENZIONE
+::: danger ATTENZIONE
 Modifica soltanto le cose che conosci e capisci
 :::
 
