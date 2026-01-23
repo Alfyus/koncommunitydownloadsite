@@ -15,9 +15,9 @@ Per ottenere le versioni Premium di YouTube, YouTube Music e altre app, devi ins
 
 ## 📥 Risorse per il Download
 
-Ti consiglio vivamente di utilizzare il sito ufficiale per avere sempre l'ultima versione:
+Ti consiglio vivamente di utilizzare il sito ufficiale per avere sempre l'ultima versione (scarica anche microG, si trova nello stesso sito):
 👉 **[Sito Ufficiale ReVanced](https://vanced.to/revanced-manager)**
-Nello stesso sito troverai anche microG: **[Sito ReVanced sezione microG](https://vanced.to/gmscore-microg)**
+
 
 ::: tip 📦 Backup di Emergenza
 Se il sito ufficiale dovesse risultare irraggiungibile, trovi l'ultima versione stabile testata (aggiornata al 16/10/2025) qui:
