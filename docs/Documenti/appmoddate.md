@@ -37,3 +37,10 @@ Segui questi passaggi nell'ordine esatto per evitare errori di login:
 ::: info 💡 Nota tecnica
 L'architettura **FOSS** di microG garantisce che i tuoi dati di accesso non passino per server di terze parti non autorizzati, mantenendo la tua privacy protetta mentre godi delle funzionalità Premium.
 :::
+
+## 📥 Lista delle APP più utili/famose
+- Spotify Premium
+- TikTok Enhanced
+- Telegram Enhanced/Premium
+- Youtube Premium
+- Youtube Music Premium
