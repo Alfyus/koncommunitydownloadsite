@@ -8,8 +8,8 @@ Questa procedura non è compatibile con iOS. Assicurati di aver abilitato l'inst
 
 Per ottenere le versioni Premium di YouTube, YouTube Music e altre app, devi installare questi due componenti fondamentali:
 
-* **[ReVanced Manager](https://vanced.to/)** — Il motore che applica le patch e genera le app moddate.
-* **[microG Services](https://vanced.to/)** — Il "ponte" Open Source indispensabile per bypassare i Google Play Services e permetterti di usare il tuo account Google.
+* **ReVanced Manager** — Il motore che applica le patch e genera le app moddate.
+* **microG Services** — Il "ponte" Open Source indispensabile per bypassare i Google Play Services e permetterti di usare il tuo account Google.
 
 ---
 
