@@ -30,5 +30,5 @@
 * [Surgeon Simulator](https://t.me/c/3061758348/1355) <Badge type="info" text="PCVR" />
 * [Terraria](https://t.me/c/3061758348/623)
 * [The Elder Scrolls V Skyrim Special Edition (Reshade)](https://t.me/c/3061758348/1488)  <Badge type="warning" text="ENG" />
-* [The Last of Us Part II Remastered] Work in progress...
+* [The Last of Us Part II Remastered](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.fm3O3rGvAzgOpDxRWDdrAAHaEc%3Fpid%3DApi&sp=1769281807Te23c3dc392556cec8dbb908a64b12cee41100f5b1fab1b73dcde38fd442519bd) Work in progress...
 * [The Stanley Parable - Ultra Deluxe](https://t.me/c/3061758348/1028)
