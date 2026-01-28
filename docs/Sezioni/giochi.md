@@ -14,6 +14,7 @@
 * [Hollow Knight](https://t.me/c/3061758348/624)
 * [Hollow Knight : Silksong](https://t.me/c/3061758348/626)
 * [It Takes Two](https://t.me/c/3061758348/599)
+* [Keep Talking and Nobody Explodes]
 * [Lockdown Protocol](https://t.me/c/3061758348/108)
 * [Mage Arena](https://t.me/c/3061758348/812) <Badge type="warning" text="ENG" />
 * [Marvel's Spiderman 2](https://t.me/c/3061758348/726)
