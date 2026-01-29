@@ -48,7 +48,7 @@
 * **[Manuale di Powerbuilding](https://t.me/c/3061758348/722)** — *Filippo D'Albero*
 * **[Manuali Fondamentali D&D 3.5](https://t.me/c/3061758348/1769)** — *Dungeons & Dragons* <Badge type="danger" text="ZIP" />
 * **[Manuali NON Fondamentali D&D 3.5](https://t.me/c/3061758348/1770)** — *Dungeons & Dragons* <Badge type="danger" text="ZIP" />
-* **[Maus: Il racconto di un sopravvissuto] (https://t.me/c/3061758348/1933)** - *Art Spiegelman*
+* **[Maus: Il racconto di un sopravvissuto](https://t.me/c/3061758348/1933)** - *Art Spiegelman*
 * **[Menschen A1](https://t.me/c/3061758348/920)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen A2](https://t.me/c/3061758348/921)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen B1](https://t.me/c/3061758348/922)** — *Hueber* <Badge type="warning" text="GER" />
