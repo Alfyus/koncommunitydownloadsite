@@ -16,7 +16,6 @@
 * **[DCSS - Power mechanics for powerlifters](https://t.me/c/3061758348/926)** — *P. Evangelista*
 * **[Ego is the Enemy](https://t.me/c/3061758348/592)** — *Ryan Holiday* <Badge type="warning" text="ENG" />
 * **[Eroi di una guerra segreta](https://t.me/c/3061758348/122)** — *Meo Ponte*
-* **[Maus: Il racconto di un sopravvissuto] (https://t.me/c/3061758348/1933)** - *Art Spiegelman*
 * **[Fitness Posturale Vol.1](https://t.me/c/3061758348/706)** — *Project Invictus*
 * **[Fit fürs Goethe Zertifikat A2](https://t.me/c/3061758348/923)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Fit fürs Goethe Zertifikat B1](https://t.me/c/3061758348/924)** — *Hueber* <Badge type="warning" text="GER" />
@@ -49,6 +48,7 @@
 * **[Manuale di Powerbuilding](https://t.me/c/3061758348/722)** — *Filippo D'Albero*
 * **[Manuali Fondamentali D&D 3.5](https://t.me/c/3061758348/1769)** — *Dungeons & Dragons* <Badge type="danger" text="ZIP" />
 * **[Manuali NON Fondamentali D&D 3.5](https://t.me/c/3061758348/1770)** — *Dungeons & Dragons* <Badge type="danger" text="ZIP" />
+* **[Maus: Il racconto di un sopravvissuto] (https://t.me/c/3061758348/1933)** - *Art Spiegelman*
 * **[Menschen A1](https://t.me/c/3061758348/920)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen A2](https://t.me/c/3061758348/921)** — *Hueber* <Badge type="warning" text="GER" />
 * **[Menschen B1](https://t.me/c/3061758348/922)** — *Hueber* <Badge type="warning" text="GER" />
