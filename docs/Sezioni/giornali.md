@@ -23,8 +23,8 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 :::
 # Indice
 
-* [Corriere della Sera](https://t.me/c/3061758348/1939)
+* [Corriere della Sera](https://t.me/c/3061758348/1942)
 * [Internazionale](https://t.me/c/3061758348/1940)
-* [La Gazzetta dello Sport](https://t.me/c/3061758348/1937)
-* [The Economist](https://t.me/c/3061758348/1815)
+* [La Gazzetta dello Sport](https://t.me/c/3061758348/1941)
+* [The Economist](https://t.me/c/3061758348/1943)
 * [Vogue Italia](https://t.me/c/3061758348/1367)
