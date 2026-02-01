@@ -4,6 +4,7 @@
 * [**Il Trono di Spade** ](../Serie/iltronodispade.md)
 * [**Jujutsu Kaisen** <Badge type="warning" text="SUB ITA" />](../Serie/jujutsukaisen.md)
 * [**MOB Psycho 100**](../Serie/mobpsycho100.md)
+* [**Mr. Robot**](../Serie/mrrobot.md)
 * [**My Hero Academia** <Badge type="warning" text="SUB ITA" />](../Serie/myheroacademia.md)
 * [**Pluribus**](../Serie/pluribus.md)
 * [**Pluribus** <Badge type="warning" text="ENG" />](../Serie/pluribuseng.md)
