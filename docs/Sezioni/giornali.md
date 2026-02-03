@@ -27,4 +27,4 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 * [Internazionale](https://t.me/c/3061758348/1940)
 * [La Gazzetta dello Sport](https://t.me/c/3061758348/1992)
 * [The Economist](https://t.me/c/3061758348/1943)
-* [Vogue Italia](https://t.me/c/3061758348/1367)
+* [Vogue Italia](https://t.me/c/3061758348/1994)
