@@ -23,8 +23,8 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 :::
 # Indice
 
-* [Corriere della Sera](https://t.me/c/3061758348/1993)
+* [Corriere della Sera](https://t.me/c/3061758348/1996)
 * [Internazionale](https://t.me/c/3061758348/1940)
-* [La Gazzetta dello Sport](https://t.me/c/3061758348/1992)
+* [La Gazzetta dello Sport](https://t.me/c/3061758348/1995)
 * [The Economist](https://t.me/c/3061758348/1943)
 * [Vogue Italia](https://t.me/c/3061758348/1994)
