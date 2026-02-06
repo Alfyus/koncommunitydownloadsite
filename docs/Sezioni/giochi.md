@@ -10,7 +10,7 @@
 * [Elden Ring](https://t.me/c/3061758348/646)
 * [Emissary Zero](https://t.me/c/3061758348/814) <Badge type="warning" text="ENG" />
 * [Ground Branch](https://t.me/c/3061758348/1732) <Badge type="warning" text="ENG" />
-* [Hytale](https://t.me/c/3061758348/1915) <Badge type="warning" text="ENG" />
+* [Hytale](https://t.me/c/3061758348/2004) <Badge type="warning" text="ENG" />
 * [Hollow Knight](https://t.me/c/3061758348/624)
 * [Hollow Knight : Silksong](https://t.me/c/3061758348/626)
 * [It Takes Two](https://t.me/c/3061758348/599)
