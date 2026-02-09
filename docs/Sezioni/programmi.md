@@ -13,6 +13,7 @@
 * **[Driver Booster Pro 12.1.0.469](https://t.me/c/3061758348/106)** — *IObit*
 * **[FL Studio 2025](https://t.me/c/3061758348/883)**
 * **[FL Studio 2025](https://t.me/c/3061758348/884)** <Badge type="info" text="MAC" />
+* **[Labview 2023](https://t.me/c/3061758348/2018)** — *National Instruments* <Badge type="warning" text="ENG" />
 * **[Logic PRO 11](https://t.me/c/3061758348/887)** <Badge type="info" text="MAC" />
 * **[Office](https://t.me/c/3061758348/934)** — *Microsoft*
 * **[Office](https://t.me/c/3061758348/932)** — *Microsoft* <Badge type="info" text="MAC" />
