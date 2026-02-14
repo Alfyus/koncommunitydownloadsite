@@ -25,6 +25,6 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 
 * [Corriere della Sera](https://t.me/c/3061758348/2032)
 * [Internazionale](https://t.me/c/3061758348/2003)
-* [La Gazzetta dello Sport]()
+* [La Gazzetta dello Sport](https://t.me/c/3061758348/2031)
 * [The Economist](https://t.me/c/3061758348/2005)
 * [Vogue Italia](https://t.me/c/3061758348/1994)
