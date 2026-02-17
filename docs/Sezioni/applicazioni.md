@@ -1,6 +1,6 @@
 # :iphone: Applicazioni
 
-* [3B Meteo Premium[(https://t.me/c/3061758348/2051) <Badge type="info" text="Android" />
+* [3B Meteo Premium](https://t.me/c/3061758348/2051) <Badge type="info" text="Android" />
 * [Battery Guru Premium](https://t.me/c/3061758348/1049) <Badge type="info" text="Android" />
 * [CCleaner Professional Premium](https://t.me/c/3061758348/2015) <Badge type="info" text="Android" />
 * [Flightradar24 Premium](https://t.me/c/3061758348/2013) <Badge type="info" text="Android" />
