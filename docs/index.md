@@ -60,7 +60,7 @@ features:
 
   - icon: 📖
     title: Materiale Università
-    details: Manga leggibili sul proprio dispositivo
+    details: Materiale Universitario per facilitare lo studio delle materie.
     link: 'Sezioni/materialeuni.md'
 
   - icon: 🗞️
