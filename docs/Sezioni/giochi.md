@@ -2,6 +2,7 @@
 
 * [Beat Saber](https://t.me/c/3061758348/110) <Badge type="info" text="PCVR" />
 * [BONELAB](https://t.me/c/3061758348/532) <Badge type="info" text="PCVR" />
+* [Call of Duty: World at War](https://t.me/c/3061758348/2043)<Badge type="warning" text="ENG" />
 * [Cloverpit](https://t.me/c/3061758348/822)
 * [CRUMB Circuit Simulator](https://t.me/c/3061758348/723)
 * [Dark Souls Remastered](https://t.me/c/3061758348/629)
