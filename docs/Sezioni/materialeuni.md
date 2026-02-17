@@ -14,5 +14,5 @@ Si precisa, pertanto, che la consultazione di tali documenti non sostituisce in 
 * **[Fondamenti di Elettronica](https://t.me/c/3061758348/154)**
 * **[Macchine e azionamenti elettrici](https://t.me/c/3061758348/548)**
 * **[Misure e Strumentazione per l'Automazione](https://t.me/c/3061758348/155)**
-* **[Robotica (Fondamenti di Robotica)](https://t.me/c/3061758348/156)**
+* **[Fondamenti di Robotica](https://t.me/c/3061758348/156)**
 * **[Teoria dei segnali](https://t.me/c/3061758348/157)**
