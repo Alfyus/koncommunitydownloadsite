@@ -6,7 +6,7 @@
 
 * [**Formattazione pulita di Windows 11**](../Documenti/formattazionewindows.md)
 
-* [**Installazione ROS2 (Humble) + Gazebo**](https://github.com/Alfyus/ROS2-Humble-and-Gazebo-Tutorial)
+* [**Installazione ROS2 (Humble) + Gazebo**](https://github.com/Alfyus/ROS2-Humble-and-Gazebo-Tutorial)<Badge type="info" text="LINUX"  /> <Badge type="warning" text="ENG" /> <Badge type="warning" text="ITA" />
 
 * [**Piratare giochi direttamente sul Meta Quest** ](../Documenti/metaquest.md)
 
