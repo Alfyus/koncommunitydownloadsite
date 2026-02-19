@@ -1,6 +1,7 @@
 # :video_game: Giochi
 
 * [Beat Saber](https://t.me/c/3061758348/110) <Badge type="info" text="PCVR" />
+* [Black Mesa](https://t.me/c/3061758348/2054)
 * [BONELAB](https://t.me/c/3061758348/532) <Badge type="info" text="PCVR" />
 * [Call of Duty: World at War](https://t.me/c/3061758348/2043)<Badge type="warning" text="ENG" />
 * [Cloverpit](https://t.me/c/3061758348/822)
