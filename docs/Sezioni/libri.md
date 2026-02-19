@@ -11,6 +11,7 @@
 * **[Animali Fantastici dove trovarli - I libri della Biblioteca di Hogwarts](https://t.me/c/3061758348/876)** — *J.K. Rowling* <Badge type="danger" text="EPUB" />
 * **[Atomic habits](https://t.me/c/3061758348/121)** — *J. Clear* <Badge type="warning" text="ENG" />
 * **[Bodybuilding Programmazione e schede](https://t.me/c/3061758348/704)** — *Andrea Raimondi*
+* **[Cime Tempestose](https://t.me/c/3061758348/2062)** — *Emily Jane Brontë*
 * **[Come trattare gli altri e farseli amici](https://t.me/c/3061758348/820)** — *D. Carnegie* <Badge type="danger" text="EPUB" />
 * **[Donna e Fitness](https://t.me/c/3061758348/705)** — *Andrea Raimondi*
 * **[DCSS - Power mechanics for powerlifters](https://t.me/c/3061758348/926)** — *P. Evangelista*
