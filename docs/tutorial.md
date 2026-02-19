@@ -33,6 +33,7 @@ Se un elemento **non presenta tag specifici**, si applicano i seguenti standard 
 * *Nota: Per formati e-reader specifici (come EPUB), controllare i tag rossi.*
 
 #### 🎮 Gaming & VR
+* In assenza di TAG si presuppone che il gioco sia per **Windows**
 * **Requisiti PCVR:** Tutti i giochi contrassegnati dal tag <Badge type="info" text="PCVR" /> richiedono obbligatoriamente il **collegamento del visore al PC** per essere eseguiti.
 
 ---
