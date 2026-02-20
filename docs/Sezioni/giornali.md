@@ -23,8 +23,8 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 :::
 # Indice
 
-* [Corriere della Sera](https://t.me/c/3061758348/2060)
-* [Internazionale](https://t.me/c/3061758348/2035)
-* [La Gazzetta dello Sport](https://t.me/c/3061758348/2061)
+* [Corriere della Sera](https://t.me/c/3061758348/2095)
+* [Internazionale](https://t.me/c/3061758348/2096)
+* [La Gazzetta dello Sport](https://t.me/c/3061758348/2094)
 * [The Economist](https://t.me/c/3061758348/2034)
 * [Vogue Italia](https://t.me/c/3061758348/1994)
