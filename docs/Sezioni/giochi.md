@@ -12,7 +12,7 @@
 * [Elden Ring](https://t.me/c/3061758348/646)
 * [Emissary Zero](https://t.me/c/3061758348/814) <Badge type="warning" text="ENG" />
 * [Ground Branch](https://t.me/c/3061758348/1732) <Badge type="warning" text="ENG" />
-* [Half-Life: Alyx (MOD senza VR)](https://t.me/c/3061758348/2093)
+* [Half-Life: Alyx (MOD senza VR)](https://t.me/c/3061758348/2097)
 * [Half-Life: Complete Edition (1,2, Lost Coast, Episode 1, Episode 2)](https://t.me/c/3061758348/2089)
 * [Hollow Knight](https://t.me/c/3061758348/624)
 * [Hollow Knight : Silksong](https://t.me/c/3061758348/626)
