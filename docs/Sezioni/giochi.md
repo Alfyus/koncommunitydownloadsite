@@ -12,9 +12,11 @@
 * [Elden Ring](https://t.me/c/3061758348/646)
 * [Emissary Zero](https://t.me/c/3061758348/814) <Badge type="warning" text="ENG" />
 * [Ground Branch](https://t.me/c/3061758348/1732) <Badge type="warning" text="ENG" />
-* [Hytale](https://t.me/c/3061758348/2004) <Badge type="warning" text="ENG" />
+* [Half-Life: Alyx (MOD senza VR)]
+* [Half-Life: Complete Edition (1,2, Lost Coast, Episode 1, Episode 2)]
 * [Hollow Knight](https://t.me/c/3061758348/624)
 * [Hollow Knight : Silksong](https://t.me/c/3061758348/626)
+* [Hytale](https://t.me/c/3061758348/2004) <Badge type="warning" text="ENG" />
 * [It Takes Two](https://t.me/c/3061758348/599)
 * [Keep Talking and Nobody Explodes](https://t.me/c/3061758348/1926)
 * [Lockdown Protocol](https://t.me/c/3061758348/108)
@@ -28,6 +30,7 @@
 * [RV There Yet](https://t.me/c/3061758348/1033)
 * [SEGA Megadrive Emulator con 1600+ giochi](https://t.me/c/3061758348/1069) <Badge type="warning" text="ENG" />
 * [Stardew Valley](https://t.me/c/3061758348/570)
+* [Stellar Blade](https://t.me/c/3061758348/2063)
 * [Stray](https://t.me/c/3061758348/1062)
 * [Super Mario Party Jamboree](https://t.me/c/3061758348/797) <Badge type="info" text="Switch" />
 * [Surgeon Simulator](https://t.me/c/3061758348/1355) <Badge type="info" text="PCVR" />
