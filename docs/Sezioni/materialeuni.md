@@ -15,4 +15,5 @@ Si precisa, pertanto, che la consultazione di tali documenti non sostituisce in 
 * **[Fondamenti di Robotica](https://t.me/c/3061758348/156)**
 * **[Macchine e azionamenti elettrici](https://t.me/c/3061758348/548)**
 * **[Misure e Strumentazione per l'Automazione](https://t.me/c/3061758348/155)**
+* **[Photovoltaic Devices and Technologies](https://t.me/c/3061758348/2132)**
 * **[Teoria dei segnali](https://t.me/c/3061758348/157)**
