@@ -1,4 +1,4 @@
-# 🐧 Introduzione
+# Introduzione 🐧
 
 Se siete pronti a immergervi nel potente mondo di **Linux**, siete nel posto giusto. Questa guida vi accompagnerà attraverso le tappe fondamentali che hanno reso questo sistema operativo un pilastro della tecnologia moderna.
 
@@ -50,7 +50,7 @@ Linux non è un sistema operativo completo di per sé, ma è tecnicamente il "mo
 :::
 
 
-# 🐧 Distribuzioni e Architettura di Linux
+# Distribuzioni e Architettura di Linux 🐧
 
 Nella lezione precedente abbiamo esplorato il kernel Linux. È fondamentale fare una distinzione: sebbene il termine "Linux" venga spesso usato per indicare l'intero sistema operativo, tecnicamente si riferisce **solo al kernel**. I sistemi operativi completi che utilizzano il kernel Linux sono chiamati più correttamente **Distribuzioni Linux**, o semplicemente **"distro"**.
 
@@ -113,7 +113,7 @@ Puoi anche fare un test per capire qale Distro potrebbe essere quella datta su [
 
 ---
 
-## 1. Selezione e Download della ISO 📥
+##  📥 1. Selezione e Download della ISO
 
 Il primo passo consiste nello scaricare l'immagine disco (.iso) della distribuzione scelta. Assicurati di scaricare sempre le versioni dal sito ufficiale per garantire l'integrità del sistema.
 
@@ -129,7 +129,7 @@ Il primo passo consiste nello scaricare l'immagine disco (.iso) della distribuzi
 
 ---
 
-## 2. Preparazione del Supporto USB 💾
+## 💾 2. Preparazione del Supporto USB
 
 Per "flashare" la ISO su una chiavetta USB (minimo 8GB), utilizza lo strumento più adatto al tuo sistema operativo attuale. **Attenzione: la chiavetta verrà formattata.**
 
@@ -148,7 +148,7 @@ Per "flashare" la ISO su una chiavetta USB (minimo 8GB), utilizza lo strumento p
 
 ---
 
-## 3. Accesso al BIOS/UEFI ⚙️
+## ⚙️ 3. Accesso al BIOS/UEFI
 
 Una volta creata la chiavetta, riavvia il computer. Devi intercettare l'avvio prima che parta il vecchio sistema operativo premendo ripetutamente il tasto dedicato.
 
@@ -164,7 +164,7 @@ Una volta creata la chiavetta, riavvia il computer. Devi intercettare l'avvio pr
 
 ---
 
-## 4. Configurazione e Avvio dell'Installazione 🚀
+## 🚀 4. Configurazione e Avvio dell'Installazione
 
 Una volta all'interno dell'interfaccia BIOS/UEFI, segui questi passaggi per permettere l'avvio di Linux:
 
