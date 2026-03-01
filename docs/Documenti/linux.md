@@ -48,3 +48,59 @@ Linux non è un sistema operativo completo di per sé, ma è tecnicamente il "mo
 ::: details 🔍 Clicca per scoprire la risposta
 **Linus Torvalds**
 :::
+
+
+# 🐧 Distribuzioni e Architettura di Linux
+
+Nella lezione precedente abbiamo esplorato il kernel Linux. È fondamentale fare una distinzione: sebbene il termine "Linux" venga spesso usato per indicare l'intero sistema operativo, tecnicamente si riferisce **solo al kernel**. I sistemi operativi completi che utilizzano il kernel Linux sono chiamati più correttamente **Distribuzioni Linux**, o semplicemente **"distro"**.
+
+---
+
+## 🏗️ L'Architettura del Sistema
+Un sistema Linux è diviso in tre parti principali:
+
+1. **Hardware**: I componenti fisici del computer (CPU, RAM, dischi, ecc.).
+2. **Kernel Linux**: Il cuore del sistema. Gestisce l'hardware e permette la comunicazione tra software e componenti fisici.
+3. **User Space (Spazio Utente)**: L'ambiente in cui l'utente interagisce con il sistema tramite applicazioni e interfacce a riga di comando (CLI).
+
+---
+
+## 📦 Cos'è una Distribuzione Linux?
+Una distribuzione pacchettizza (fatemi passare il termine) il kernel Linux insieme a una collezione di software, come utility di sistema, librerie e applicazioni. 
+
+In genere, una distro include:
+* Un **gestore di pacchetti** per installare e gestire il software.
+* Un **ambiente desktop** (DE) per l'interfaccia grafica (GUI).
+
+In sostanza, una distro è un sistema operativo completo e pronto all'uso costruito attorno al kernel.
+
+---
+
+## 🛠️ Come Scegliere la propria Distro
+Scegliere tra centinaia di opzioni può sembrare scoraggiante. La chiave è trovare una distribuzione che si allinei al tuo livello di esperienza e ai tuoi obiettivi.
+
+### Fattori Chiave da Considerare
+
+| Fattore | Descrizione |
+| :--- | :--- |
+| **Livello di Esperienza** | I principianti dovrebbero puntare su distro *user-friendly* come **Ubuntu** o **Linux Mint**. Gli utenti avanzati potrebbero preferire la personalizzazione totale di **Arch Linux** o **Gentoo**. |
+| **Ambiente Desktop** | Definisce il look & feel. Opzioni popolari includono **GNOME**, **KDE Plasma** (ottimo per HDR e Wayland) e **XFCE**. |
+| **Gestione Pacchetti** | Le due famiglie principali sono **Debian-based** (usano `.deb` e `apt`) e **Red Hat-based** (usano `.rpm` e `dnf`). Formati universali come **Flatpak** e **Snap** facilitano l'installazione ovunque. |
+| **Community e Supporto** | Una vasta community significa più tutorial e forum. Alcune distro offrono anche supporto commerciale ufficiale. |
+
+---
+
+## 🚀 Il Primo Passo Pratico
+Non esiste una "migliore" distribuzione in assoluto. Il modo migliore per iniziare è testare alcune opzioni tramite una **"Live USB"**: questo ti permette di avviare il sistema operativo direttamente da una chiavetta USB senza installare nulla sul disco rigido.
+
+::: tip 💡 Consiglio dell'Esperto
+Se sei indeciso, parti da una distribuzione basata su Debian o Ubuntu (come ad esempio Linux Mint). La vastità di documentazione disponibile online ti salverà la vita nei primi giorni di utilizzo.
+:::
+
+### 📝 Domanda di ripasso
+
+**Cosa gestisce l'hardware in un sistema Linux?**
+
+::: details 🔍 Clicca per scoprire la risposta
+**Il Kernel Linux**
+:::
