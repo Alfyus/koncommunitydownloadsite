@@ -97,6 +97,10 @@ Non esiste una "migliore" distribuzione in assoluto. Il modo migliore per inizia
 Se sei indeciso, parti da una distribuzione basata su Debian o Ubuntu (come ad esempio Linux Mint). La vastità di documentazione disponibile online ti salverà la vita nei primi giorni di utilizzo.
 :::
 
+::: tip 💡 Consiglio dell'Esperto
+Puoi anche fare un test per capire qale Distro potrebbe essere quella datta su [Distrochooser](https://distrochooser.de/it)
+:::
+
 ### 📝 Domanda di ripasso
 
 **Cosa gestisce l'hardware in un sistema Linux?**
