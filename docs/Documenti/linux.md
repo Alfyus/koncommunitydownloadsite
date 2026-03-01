@@ -108,3 +108,78 @@ Puoi anche fare un test per capire qale Distro potrebbe essere quella datta su [
 ::: details 🔍 Clicca per scoprire la risposta
 **Il Kernel Linux**
 :::
+
+# Installazione di Linux 🐧
+
+---
+
+## 1. Selezione e Download della ISO 📥
+
+Il primo passo consiste nello scaricare l'immagine disco (.iso) della distribuzione scelta. Assicurati di scaricare sempre le versioni dal sito ufficiale per garantire l'integrità del sistema.
+
+| Distribuzione | Profilo Utente | Sito Ufficiale |
+| :--- | :--- | :--- |
+| **Linux Mint** | Ideale per chi viene da Windows | [Download](https://linuxmint.com/) |
+| **Ubuntu** | Lo standard per compatibilità e supporto | [Download](https://ubuntu.com/) |
+| **Fedora** | Per chi vuole software sempre aggiornato | [Download](https://getfedora.org/) |
+| **Pop!_OS** | Ottimo per gaming e workflow produttivi | [Download](https://pop.system76.com/) |
+
+> [!TIP]
+> Se non sai cosa scegliere, punta su **Linux Mint Edition (Cinnamon)**: è solida, familiare e include già molti driver necessari.
+
+---
+
+## 2. Preparazione del Supporto USB 💾
+
+Per "flashare" la ISO su una chiavetta USB (minimo 8GB), utilizza lo strumento più adatto al tuo sistema operativo attuale. **Attenzione: la chiavetta verrà formattata.**
+
+### Strumenti consigliati per OS:
+
+* **Windows:** [Rufus](https://rufus.ie/) (Veloce, non richiede installazione).
+* **macOS:** [BalenaEtcher](https://www.balena.io/etcher/) (Interfaccia intuitiva e sicura).
+* **Linux:** [Ventoy](https://www.ventoy.net/) (Permette di gestire più ISO trascinandole semplicemente nel drive).
+
+### Procedura Standard:
+1. Inserisci la chiavetta USB.
+2. Apri il software di flashing.
+3. Seleziona il file **ISO** scaricato.
+4. Seleziona l'unità **USB** corretta.
+5. Clicca su **Flash** (o Start) e attendi il messaggio di conferma.
+
+---
+
+## 3. Accesso al BIOS/UEFI ⚙️
+
+Una volta creata la chiavetta, riavvia il computer. Devi intercettare l'avvio prima che parta il vecchio sistema operativo premendo ripetutamente il tasto dedicato.
+
+### Tasti comuni per produttore:
+
+| Produttore | Tasto BIOS/Setup | Boot Menu (Scelta rapida) |
+| :--- | :--- | :--- |
+| **ASUS** | `F2` o `DEL` | `F8` |
+| **Dell** | `F2` | `F12` |
+| **HP** | `F10` | `F9` o `ESC` |
+| **Lenovo** | `F2` o `Fn+F2` | `F12` |
+| **Acer** | `F2` | `F12` |
+
+---
+
+## 4. Configurazione e Avvio dell'Installazione 🚀
+
+Una volta all'interno dell'interfaccia BIOS/UEFI, segui questi passaggi per permettere l'avvio di Linux:
+
+1.  **Secure Boot:** Se l'installazione non parte, cerca la voce *Secure Boot* e impostala su `Disabled`.
+2.  **Ordine di Avvio (Boot Priority):** Trascina o sposta la tua **USB Flash Drive** in cima alla lista di avvio. Nei BIOS più vecchi comparirà sotto la legenda sul come spostare di ordine.
+3.  **Salvataggio:** Premi `F10` per salvare le modifiche e uscire.
+
+### L'ambiente "Live"
+Il computer si caricherà ora in modalità **Live**. Questo ti permette di:
+* Controllare se il Wi-Fi e l'audio funzionano correttamente.
+* Provare il sistema senza modificare nulla sul disco fisso.
+* Avviare l'installer definitivo tramite l'icona **"Install Linux"** presente sul desktop.
+
+---
+
+::: info Curiosità
+Molti utenti Linux preferiscono mantenere una piccola partizione Windows (Dual Boot) all'inizio. Se decidi di farlo, l'installer di Linux solitamente rileverà Windows e ti chiederà se vuoi installarli "fianco a fianco".
+:::
