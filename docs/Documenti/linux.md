@@ -117,12 +117,12 @@ Puoi anche fare un test per capire qale Distro potrebbe essere quella datta su [
 
 Il primo passo consiste nello scaricare l'immagine disco (.iso) della distribuzione scelta. Assicurati di scaricare sempre le versioni dal sito ufficiale per garantire l'integrità del sistema.
 
-| Distribuzione | Profilo Utente | Sito Ufficiale |
-| :--- | :--- | :--- |
-| **Linux Mint** | Ideale per chi viene da Windows | [Download](https://linuxmint.com/) |
-| **Ubuntu** | Lo standard per compatibilità e supporto | [Download](https://ubuntu.com/) |
-| **Fedora** | Per chi vuole software sempre aggiornato | [Download](https://getfedora.org/) |
-| **Pop!_OS** | Ottimo per gaming e workflow produttivi | [Download](https://pop.system76.com/) |
+| Distribuzione | Profilo Utente |
+| :--- | :--- |
+| **Linux Mint** | Ideale per chi viene da Windows |
+| **Ubuntu** | Lo standard per compatibilità e supporto |
+| **Fedora** | Per chi vuole software sempre aggiornato |
+| **Pop!_OS** | Ottimo per gaming e workflow produttivi |
 
 > [!TIP]
 > Se non sai cosa scegliere, punta su **Linux Mint Edition (Cinnamon)**: è solida, familiare e include già molti driver necessari.
