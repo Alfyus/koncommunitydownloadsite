@@ -226,3 +226,80 @@ echo Hello World
 ::: details 🔍 Clicca per scoprire la risposta
 **Hello World**
 :::
+
+# 🐧 Navigazione del Filesystem in Linux
+
+In Linux, un concetto fondamentale è che **tutto viene trattato come un file**. Questi file sono organizzati all'interno di una struttura gerarchica chiamata **filesystem**. Comprendere questa struttura è la chiave per navigare nel sistema in modo efficace.
+
+---
+
+## 🌳 L'Albero delle Directory in Linux
+
+L'intero filesystem parte da una singola directory di livello superiore chiamata **root** (radice), rappresentata da una barra diagonale (`/`). Dalla root, l'albero delle directory in Linux si dirama in varie sottodirectory, che possono contenere file e ulteriori sottocartelle.
+
+Ecco un esempio semplificato di come appare questa struttura:
+
+```text
+/
+|-- bin
+|   |-- file1
+|   |-- file2
+|-- etc
+|   |-- file3
+|   `-- directory1
+|       |-- file4
+|       `-- file5
+|-- home
+|-- var
+```
+
+# Muoversi tra le varie cartelle tramite Shell 🐧
+## 📍 Comprendere i Percorsi (Paths)
+La posizione di qualsiasi file o directory è descritta dal suo **percorso**. Un percorso è una sequenza di directory che conduce da un punto di partenza a una destinazione specifica.
+
+> **Esempio:** Se hai una cartella chiamata `alfyus` all'interno della directory `/home`, e una cartella `Movies` dentro `alfyus`, il percorso completo sarà `/home/pete/Movies`.
+
+---
+
+### Cos'è il formato esteso di PWD in Linux?
+
+Quando navighi nel filesystem, è essenziale conoscere la tua posizione attuale. Il comando per farlo è `pwd`. Il significato di **pwd** in Linux è **"print working directory"** (stampa directory di lavoro). Il suo unico scopo è visualizzare il percorso completo della directory in cui ti trovi attualmente, partendo dalla root (`/`).
+
+---
+
+### Utilizzo del comando `pwd`
+
+Per trovare la tua **directory corrente**, digita semplicemente il comando `pwd` e premi Invio. Verrà stampato il percorso assoluto della tua posizione attuale sulla riga di comando.
+
+```bash
+pwd
+```
+
+## 🚀 cd (Cambio Directory)
+
+Per spostarti nel filesystem di Linux, utilizzerai i percorsi per specificare la tua destinazione. Lo strumento principale per farlo è il comando `cd` (*change directory*). Comprendere come usare questo comando è un'abilità fondamentale per lavorare nel terminale.
+
+---
+
+### Comprendere i Percorsi
+
+Esistono due modi per specificare un percorso:
+
+1.  **Percorso Assoluto:** È il percorso completo che parte dalla directory **root** (`/`). La root è il livello più alto del filesystem. Qualsiasi percorso che inizia con `/` è un percorso assoluto.
+    * **Esempio:** `/home/alfyus/Desktop`
+
+2.  **Percorso Relativo:** Questo percorso è relativo alla tua **posizione attuale** nel filesystem. Se ti trovi in `/home/alfyus/Documents` e vuoi accedere a una sottodirectory chiamata `taxes`, non hai bisogno del percorso completo. Puoi usare semplicemente il percorso relativo: `taxes/`.
+
+
+
+---
+
+### Utilizzo del comando `cd`
+
+Una volta compresi i percorsi, puoi usare il comando `cd` per cambiare la tua directory corrente. Che tu sia in un terminale Linux o in un prompt dei comandi di Windows, il concetto di cambiare directory è universale, anche se la sintassi può variare leggermente.
+
+Per passare a una directory specifica usando un **percorso assoluto**, digita:
+
+```bash
+cd /home/alfyus/Pictures
+```
