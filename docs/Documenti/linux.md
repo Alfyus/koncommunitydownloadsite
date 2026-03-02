@@ -207,7 +207,7 @@ Mentre esistono altre shell come `ksh`, `zsh` e `tcsh`, padroneggiare Bash forni
 Quando apri un terminale, sarai accolto dal **prompt della shell**. Il suo aspetto può variare tra le diverse distribuzioni, ma tipicamente segue questo formato: `utente@hostname:directory_corrente$`.
 
 ```bash
-pete@icebox:/home/pete $
+alfyus@koncommunity:/home/alfyus $
 ```
 
 ## 🚀 Il Tuo Primo Comando Linux
