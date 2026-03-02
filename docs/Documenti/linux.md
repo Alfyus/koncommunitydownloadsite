@@ -300,3 +300,27 @@ Per passare a una directory specifica usando un **percorso assoluto**, digita:
 ```bash
 cd /home/alfyus/Pictures
 ```
+Questo comando ti porta direttamente nella directory `Pictures`.
+
+## 📁 Navigare in una sottocartella
+Se sei già nella directory genitore, puoi usare un percorso relativo.
+
+Esempio: se ti trovi in `/home/pete/Pictures` e esiste la cartella `Hawaii`:
+
+```bash
+cd Hawaii
+```
+
+Abbiamo usato solo il nome perché siamo già nella directory corretta.
+
+## ⚡ Scorciatoie Essenziali di Navigazione
+La shell offre scorciatoie utilissime:
+. → directory corrente
+
+.. → directory genitore
+
+~ → home directory (es. /home/pete)
+
+- → directory precedente
+
+Provale per diventare più veloce nella navigazione da terminale.
