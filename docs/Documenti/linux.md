@@ -187,7 +187,7 @@ Molti utenti Linux preferiscono mantenere una piccola partizione Windows (Dual B
 
 # Guida alla Shell di Linux 🐧
 
-## Cos'è la Shell di Linux 🐚
+## 🐚 Cos'è la Shell di Linux
 
 Il primo passo fondamentale è comprendere la **Shell**. La shell è un potente programma che accetta i comandi digitati dall'utente e li trasmette al sistema operativo per l'esecuzione.
 
@@ -195,15 +195,14 @@ Se hai già utilizzato un'interfaccia grafica (GUI), potresti aver incontrato ap
 
 ---
 
-## Comprendere Bash 🛠️
-
+## 🛠️ Comprendere Bash
 In questo corso ci concentreremo sul programma **Bash** (*Bourne Again Shell*). Bash è la shell predefinita per la maggior parte delle distribuzioni Linux, il che la rende uno strumento essenziale da imparare.
 
 Mentre esistono altre shell come `ksh`, `zsh` e `tcsh`, padroneggiare Bash fornisce una base solida per lavorare con qualsiasi sistema Linux.
 
 ---
 
-## Il Prompt della Shell 💻
+## 💻 Il Prompt della Shell
 
 Quando apri un terminale, sarai accolto dal **prompt della shell**. Il suo aspetto può variare tra le diverse distribuzioni, ma tipicamente segue questo formato: `utente@hostname:directory_corrente$`.
 
@@ -211,7 +210,7 @@ Quando apri un terminale, sarai accolto dal **prompt della shell**. Il suo aspet
 pete@icebox:/home/pete $
 ```
 
-## Il Tuo Primo Comando Linux 🚀
+## 🚀 Il Tuo Primo Comando Linux
 
 Iniziamo con uno dei comandi Linux più basilari per i principianti: `echo`. Questo comando è estremamente diretto: si limita a visualizzare, ovvero a "restituire l'eco", del testo fornito come argomento direttamente nel terminale.
 Per testarlo, digita quanto segue nel tuo terminale:
