@@ -183,3 +183,47 @@ Il computer si caricherà ora in modalità **Live**. Questo ti permette di:
 ::: info Curiosità
 Molti utenti Linux preferiscono mantenere una piccola partizione Windows (Dual Boot) all'inizio. Se decidi di farlo, l'installer di Linux solitamente rileverà Windows e ti chiederà se vuoi installarli "fianco a fianco".
 :::
+
+
+# Guida alla Shell di Linux 🐧
+
+## Cos'è la Shell di Linux 🐚
+
+Il primo passo fondamentale è comprendere la **Shell**. La shell è un potente programma che accetta i comandi digitati dall'utente e li trasmette al sistema operativo per l'esecuzione.
+
+Se hai già utilizzato un'interfaccia grafica (GUI), potresti aver incontrato applicazioni come "Terminale" o "Console". Questi sono semplicemente programmi che aprono una sessione shell per te. In questo corso esploreremo le capacità della shell e i numerosi comandi Linux a disposizione.
+
+---
+
+## Comprendere Bash 🛠️
+
+In questo corso ci concentreremo sul programma **Bash** (*Bourne Again Shell*). Bash è la shell predefinita per la maggior parte delle distribuzioni Linux, il che la rende uno strumento essenziale da imparare.
+
+Mentre esistono altre shell come `ksh`, `zsh` e `tcsh`, padroneggiare Bash fornisce una base solida per lavorare con qualsiasi sistema Linux.
+
+---
+
+## Il Prompt della Shell 💻
+
+Quando apri un terminale, sarai accolto dal **prompt della shell**. Il suo aspetto può variare tra le diverse distribuzioni, ma tipicamente segue questo formato: `utente@hostname:directory_corrente$`.
+
+```bash
+pete@icebox:/home/pete $
+```
+
+## Il Tuo Primo Comando Linux 🚀
+
+Iniziamo con uno dei comandi Linux più basilari per i principianti: `echo`. Questo comando è estremamente diretto: si limita a visualizzare, ovvero a "restituire l'eco", del testo fornito come argomento direttamente nel terminale.
+Per testarlo, digita quanto segue nel tuo terminale:
+
+```bash
+echo Hello World
+```
+
+### 📝 Domanda di ripasso
+
+**Qual è l'output esatto a schermo quando digiti "echo Hello World"**
+
+::: details 🔍 Clicca per scoprire la risposta
+**Hello World**
+:::
