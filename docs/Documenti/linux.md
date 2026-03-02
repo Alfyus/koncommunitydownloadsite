@@ -315,12 +315,15 @@ Abbiamo usato solo il nome perché siamo già nella directory corretta.
 
 ## ⚡ Scorciatoie Essenziali di Navigazione
 La shell offre scorciatoie utilissime:
-. → directory corrente
 
-.. → directory genitore
+---
 
-~ → home directory (es. /home/pete)
+`.` → directory corrente
 
-- → directory precedente
+`..` → directory genitore
+
+`~` → home directory (es. /home/pete)
+
+`-` → directory precedente
 
 Provale per diventare più veloce nella navigazione da terminale.
