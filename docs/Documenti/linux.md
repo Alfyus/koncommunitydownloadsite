@@ -227,12 +227,13 @@ echo Hello World
 **Hello World**
 :::
 
-# Navigazione del Filesystem in Linux 🐧 
+# Navigazione in Linux 🐧 
 
 In Linux, un concetto fondamentale è che **tutto viene trattato come un file**. Questi file sono organizzati all'interno di una struttura gerarchica chiamata **filesystem**. Comprendere questa struttura è la chiave per navigare nel sistema in modo efficace.
 
 ---
 
+## 🌳 Tree (l'albero)
 L'intero filesystem parte da una singola directory di livello superiore chiamata **root** (radice), rappresentata da una barra diagonale (`/`). Dalla root, l'albero delle directory in Linux si dirama in varie sottodirectory, che possono contenere file e ulteriori sottocartelle.
 
 Ecco un esempio semplificato di come appare questa struttura:
@@ -250,8 +251,6 @@ Ecco un esempio semplificato di come appare questa struttura:
 |-- home
 |-- var
 ```
-
-# Muoversi tra le varie cartelle tramite Shell 🐧
 ## 📍 Comprendere i Percorsi (Paths)
 La posizione di qualsiasi file o directory è descritta dal suo **percorso**. Un percorso è una sequenza di directory che conduce da un punto di partenza a una destinazione specifica.
 
