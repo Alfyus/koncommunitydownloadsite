@@ -384,7 +384,7 @@ drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Videos
 ```
 :::tip 
 
-I comandi di `ls` possono anche essere uniti come ad esempio 
+I comandi di `ls` possono anche essere usati insieme, come ad esempio :
 
 ```bash
 ls -al
