@@ -255,7 +255,7 @@ Ecco un esempio semplificato di come appare questa struttura:
 ## 📍 Comprendere i Percorsi (Paths)
 La posizione di qualsiasi file o directory è descritta dal suo **percorso**. Un percorso è una sequenza di directory che conduce da un punto di partenza a una destinazione specifica.
 
-> **Esempio:** Se hai una cartella chiamata `alfyus` all'interno della directory `/home`, e una cartella `Movies` dentro `alfyus`, il percorso completo sarà `/home/pete/Movies`.
+> **Esempio:** Se hai una cartella chiamata `alfyus` all'interno della directory `/home`, e una cartella `Movies` dentro `alfyus`, il percorso completo sarà `/home/alfyus/Movies`.
 
 ---
 
