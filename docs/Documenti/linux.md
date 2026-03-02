@@ -388,3 +388,13 @@ I comandi di `ls` possono anche essere uniti come ad esempio
 ls -al
 ```
 ti mostrerà tutti i file (anche quelli nascosti) con le informazioni complete
+
+### 📝 Domanda di ripasso
+
+**Ammesso che io mi trovi nella directory `/home/alfyus/Desktop/erep/pere` e che voglia tornare indietro di una directory per poi avere informazioni complete sui file presenti (anche quelli nascosti), che comandi uso? Infine per essere sicuro che io mi trovi nella cartella giusta, chiedi al terminale di mostrarti la directory in cui ti trovi**
+
+::: details 🔍 Clicca per scoprire la risposta
+**cd ..**
+**ls -la**
+**pwd**
+:::
