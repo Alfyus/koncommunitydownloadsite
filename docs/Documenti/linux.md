@@ -227,7 +227,7 @@ echo Hello World
 **Hello World**
 :::
 
-# 🐧 Navigazione del Filesystem in Linux
+# Navigazione del Filesystem in Linux 🐧 
 
 In Linux, un concetto fondamentale è che **tutto viene trattato come un file**. Questi file sono organizzati all'interno di una struttura gerarchica chiamata **filesystem**. Comprendere questa struttura è la chiave per navigare nel sistema in modo efficace.
 
