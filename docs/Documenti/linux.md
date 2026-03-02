@@ -305,7 +305,7 @@ Questo comando ti porta direttamente nella directory `Pictures`.
 ## 📁 Navigare in una sottocartella
 Se sei già nella directory genitore, puoi usare un percorso relativo.
 
-Esempio: se ti trovi in `/home/pete/Pictures` e esiste la cartella `Hawaii`:
+Esempio: se ti trovi in `/home/alfyus/Pictures` e esiste la cartella `Hawaii`:
 
 ```bash
 cd Hawaii
