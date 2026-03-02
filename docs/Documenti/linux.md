@@ -322,8 +322,69 @@ La shell offre scorciatoie utilissime:
 
 `..` → directory genitore
 
-`~` → home directory (es. /home/pete)
+`~` → home directory (es. /home/alfyus)
 
 `-` → directory precedente
 
 Provale per diventare più veloce nella navigazione da terminale.
+
+## 🔍 Elencare le Directory
+
+Ora che sai muoverti nel filesystem, serve capire cosa contiene una directory.
+
+Il comando `ls` mostra i contenuti delle cartelle.
+```bash
+ls
+```
+Puoi anche specificare un percorso:
+
+```bash
+ls /home/alfyus
+```
+
+Per visualizzare file nascosti utilizza la variante con `-a`
+```bash
+ls -a
+```
+
+---
+
+Se preferisci avere delle informazioni complete sul contenuto di una directory utilizza  `-l`, ti mostrerà:
+
+---
+
+- Permessi file
+
+- Numero collegamenti
+
+- Proprietario
+
+- Gruppo
+
+- Dimensione
+
+- Data ultima modifica
+
+- Nome file/cartella
+
+---
+
+**Esempio di Output**
+```bash
+alfyus@koncommunity:~$ ls -l
+total 80
+drwxr-x--- 7 alfyus penguingroup 4096 Nov 20 16:37 Desktop
+drwxr-x--- 2 alfyus penguingroup 4096 Oct 19 10:46 Documents
+drwxr-x--- 4 alfyus penguingroup 4096 Nov 20 09:30 Downloads
+drwxr-x--- 2 alfyus penguingroup 4096 Oct 7 13:13 Music
+drwxr-x--- 2 alfyus penguingroup 4096 Sep 21 14:02 Pictures
+drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Public
+drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Templates
+drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Videos
+```
+I comandi di `ls` possono anche essere uniti come ad esempio 
+
+```bash
+ls -al
+```
+ti mostrerà tutti i file (anche quelli nascosti) con le informazioni complete
