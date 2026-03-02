@@ -233,8 +233,6 @@ In Linux, un concetto fondamentale è che **tutto viene trattato come un file**.
 
 ---
 
-## 🌳 L'Albero delle Directory in Linux
-
 L'intero filesystem parte da una singola directory di livello superiore chiamata **root** (radice), rappresentata da una barra diagonale (`/`). Dalla root, l'albero delle directory in Linux si dirama in varie sottodirectory, che possono contenere file e ulteriori sottocartelle.
 
 Ecco un esempio semplificato di come appare questa struttura:
