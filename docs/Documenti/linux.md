@@ -382,12 +382,15 @@ drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Public
 drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Templates
 drwxr-x--- 2 alfyus penguingroup 4096 Jul 27 12:41 Videos
 ```
+:::tip 
+
 I comandi di `ls` possono anche essere uniti come ad esempio 
 
 ```bash
 ls -al
 ```
 ti mostrerà tutti i file (anche quelli nascosti) con le informazioni complete
+:::
 
 ### 📝 Domanda di ripasso
 
