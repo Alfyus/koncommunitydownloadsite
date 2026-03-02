@@ -395,6 +395,8 @@ ti mostrerà tutti i file (anche quelli nascosti) con le informazioni complete
 
 ::: details 🔍 Clicca per scoprire la risposta
 **cd ..**
+
 **ls -la**
+
 **pwd**
 :::
