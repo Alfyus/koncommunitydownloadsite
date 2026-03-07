@@ -18,7 +18,7 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 | **Corriere della Sera** | <Badge type="tip" text="18 Novembre 2025" /> |
 | **Internazionale** | <Badge type="tip" text="14 Novembre 2025" /> |
 | **La Gazzetta dello Sport** | <Badge type="tip" text="3 Gennaio 2026" /> |
-| **The Economist USA** | <Badge type="tip" text="22 Novembre 2025" /> <Badge type="warning" text="ENG" /> | 
+| **The Economist USA** <Badge type="warning" text="ENG" /> | <Badge type="tip" text="22 Novembre 2025" /> | 
 | **Vogue Italia** | <Badge type="tip" text="Novembre 2025" /> |
 :::
 # Indice
