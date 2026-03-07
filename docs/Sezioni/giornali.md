@@ -18,7 +18,7 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 | **Corriere della Sera** | <Badge type="tip" text="18 Novembre 2025" /> |
 | **Internazionale** | <Badge type="tip" text="14 Novembre 2025" /> |
 | **La Gazzetta dello Sport** | <Badge type="tip" text="3 Gennaio 2026" /> |
-| **The Economist USA** | <Badge type="tip" text="22 Novembre 2025" /> |
+| **The Economist USA** | <Badge type="tip" text="22 Novembre 2025" /> <Badge type="warning" text="ENG" /> | 
 | **Vogue Italia** | <Badge type="tip" text="Novembre 2025" /> |
 :::
 # Indice
@@ -26,7 +26,7 @@ Le attività di pubblicazione delle testate sono iniziate secondo il calendario 
 * [Corriere della Sera](https://t.me/c/3061758348/2155)
 * [Internazionale](https://t.me/c/3061758348/2152)
 * [La Gazzetta dello Sport](https://t.me/c/3061758348/2154)
-* [The Economist USA](https://t.me/c/3061758348/2156)
+* [The Economist USA](https://t.me/c/3061758348/2156) <Badge type="warning" text="ENG" />
 * [Vogue Italia](https://t.me/c/3061758348/2153)
 
 ---
