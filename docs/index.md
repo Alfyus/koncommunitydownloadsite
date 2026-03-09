@@ -48,6 +48,11 @@ features:
     details: Libri universitari / scolastici
     link: 'Sezioni/libriscuola.md'
 
+  - icon: 🔗
+    title: Link Utili
+    details: Link che possono servire
+    link: 'Sezioni/linkutili.md'
+
   - icon: 📰
     title: Magazine / Giornali
     details: Giornali, quotidiani, magazine e altro...
