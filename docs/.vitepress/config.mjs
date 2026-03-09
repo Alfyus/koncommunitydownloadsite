@@ -63,6 +63,7 @@ export default defineConfig({
       { text: 'Giochi', link: '/Sezioni/giochi.md' },
       { text: 'Libri', link: '/Sezioni/libri.md' },
       { text: 'Libri Scuola / Università', link: '/Sezioni/libriscuola.md' },
+      { text: 'Link Utili', link: '/Sezioni/linkutili.md' },
       { text: 'Magazine / Giornali', link: '/Sezioni/giornali.md' },
       { text: 'Manga', link: '/Sezioni/manga.md' },
       { text: 'Materiale Università', link: '/Sezioni/materialeuni.md' },
