@@ -18,7 +18,7 @@
 * **[Fisica 2 2a Edizione](https://t.me/c/3061758348/132)** — *P. Mazzoldi*
 * **[Fondamenti di Chimica](https://t.me/c/3061758348/133)** — *P. Silvestroni*
 * **[Il nuovo Amaldi per i licei scientifici Blu Vol.2 3ª Ed.](https://t.me/c/3061758348/805)** — *Zanichelli*
-* **[Il nuovo Java - Guida completa alla programmazione moderna](https://t.me/c/3061758348/2182) - *C. Cesari*
+* **[Il nuovo Java - Guida completa alla programmazione moderna](https://t.me/c/3061758348/2182)** - *C. Cesari*
 * **[Introduction to Aircraft Performance, Selection & Design](https://t.me/c/3061758348/134)** — *F. J. Hale* <Badge type="warning" text="ENG" />
 * **[La Divina Commedia. Nuova Edizione Integrale](https://t.me/c/3061758348/808)** — *Sei*
 * **[La storia. Progettare il futuro Vol.2 2ª Ed. + Atlante geostoria](https://t.me/c/3061758348/806)** — *Zanichelli*
