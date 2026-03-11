@@ -75,6 +75,7 @@
 * **[The Daily Stoic](https://t.me/c/3061758348/591)** — *Ryan Hoilday* <Badge type="warning" text="ENG" />
 * **[The Obstacle is the Way](https://t.me/c/3061758348/590)** — *Ryan Hoilday* <Badge type="warning" text="ENG" />
 * **[Tutti pazzi per Gödel](https://t.me/c/3061758348/126)** — *F. Berto*
+* **[A colloquio con Gaspare Spatuzza. Un racconto di vita, una storia di stragi](https://t.me/c/3061758348/2185)** - *Dino A.*
 * **[Upper Lower 4x](https://t.me/c/3061758348/719)** — *Jeff Nippard* <Badge type="warning" text="ENG" />
 * **[Writing to Learn](https://t.me/c/3061758348/115)** — *H. Collins* <Badge type="warning" text="ENG" />
 
