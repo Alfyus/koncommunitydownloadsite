@@ -8,11 +8,8 @@ per cercare qualsiasi Magazine/Giornale , puoi utilizzare la funzione di ricerca
 
 **Esempio:**
 > `Corriere della Sera 12 Gennaio 2026`
-> `Vogue Italia Febbraio 2026`
 :::
-**Esempio:**
-> `Vogue Italia Febbraio 2026`
-:::
+
 Ricordo l'importanza di aggiungere il tag se necessario (se cerchi "The Economist USA" del 7 Marzo, cerca su Telegram "The Economist USA 7 Marzo 2026 [ENG]"
 
 ::: info 💡 Date
