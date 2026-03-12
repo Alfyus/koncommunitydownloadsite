@@ -19,7 +19,7 @@ Per cercare un determinato settimanale devi inserire la data di pubblicazione di
 :::
 
 ::: info 💡 TIP
-Cercando soltanto il nome del Giornale/Magazine ti ritroverai tutte le edizioni caricate in ordine alfabetico ES: `Internazionale` o `The Economist USA`
+Cercando soltanto il nome del Giornale/Magazine ti ritroverai tutte le edizioni caricate in ordine temporale ES: `Internazionale` o `The Economist USA`
 :::
 
 ::: info 💡 Date
