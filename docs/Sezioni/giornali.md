@@ -11,10 +11,6 @@ per cercare qualsiasi Magazine/Giornale , puoi utilizzare la funzione di ricerca
 :::
 
 ::: warning ⚠️ ATTENZIONE
-Ricordo l'importanza di aggiungere il tag se necessario (se cerchi `The Economist USA` del 7 Marzo, cerca su Telegram `The Economist USA 7 Marzo 2026 [ENG]`
-:::
-
-::: warning ⚠️ ATTENZIONE
 Per cercare un determinato settimanale devi inserire la data di pubblicazione di quel settimanale come ad esempio `Internazionale 6 Marzo 2026` . Per i mensili basta scrivere il mese e l'anno: `Vogue Italia Febbraio 2026`
 :::
 
