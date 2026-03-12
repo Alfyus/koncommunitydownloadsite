@@ -18,6 +18,10 @@ Ricordo l'importanza di aggiungere il tag se necessario (se cerchi `The Economis
 Per cercare un determinato settimanale devi inserire la data di pubblicazione di quel settimanale come ad esempio `Internazionale 6 Marzo 2026` . Per i mensili basta scrivere il mese e l'anno: `Vogue Italia Febbraio 2026`
 :::
 
+::: info 💡 TIP
+Cercando soltanto il nome del Giornale/Magazine ti ritroverai tutte le edizioni caricate in ordine alfabetico ES: `Internazionale` o `The Economist USA`
+:::
+
 ::: info 💡 Date
 Le attività di pubblicazione delle testate sono iniziate secondo il calendario riportato di seguito. I dati storici non sono disponibili per date antecedenti a quelle indicate. Inoltre MOLTO raramente potrebbe accadere che per un determinato giorno non cia sia il file corrispondente.
 | Canale Editoriale | Data di Inizio Monitoraggio | Frequenza
