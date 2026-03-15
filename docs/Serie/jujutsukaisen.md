@@ -78,4 +78,5 @@
 * [Episodio 7](https://t.me/c/3061758348/2033)
 * [Episodio 8](https://t.me/c/3061758348/2157)
 * [Episodio 9](https://t.me/c/3061758348/2158)
+* [Episodio 10](https://t.me/c/3061758348/2193)
 </details>
